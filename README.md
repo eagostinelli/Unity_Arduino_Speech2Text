@@ -1,7 +1,6 @@
 # Unity_Arduino_Speech2Text
 This is a basic example on how to integrate a Unity character, Watson Speech to Text Service and Arduino. 
-
-The result: 
+ 
 [![](http://img.youtube.com/vi/V2ErnOvUj7Q/0.jpg)](http://www.youtube.com/watch?v=V2ErnOvUj7Q "Demo Result")
 
 How to replicate: 
